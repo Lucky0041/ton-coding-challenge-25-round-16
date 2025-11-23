@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/Tolk-1-2-Update-2b05274bd2cf8018a535c5e917274e03
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @dudhhsbshs
+2. 你的主网 TON 钱包地址 = UQBicUiXrZqxzPExSjw4UP4a4ltFscS-cX50SeLj4_eZ-4uN
 
 
 ## 任务：Rich Bounce 应用案例
@@ -27,8 +27,8 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 你的 Tolk 代码文件名 A = ？
-2. 你的 Tolk 代码文件名 B = ？
+1. 你的 Tolk 代码文件名 A = contract_a.tolk
+2. 你的 Tolk 代码文件名 B = contract_b.tolk
 
 
 
